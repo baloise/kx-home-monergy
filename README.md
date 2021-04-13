@@ -1,13 +1,24 @@
-# repository-template-nosrc
-A template to use when starting a new project.
+# [Kickbox](https://home.getkickbox.com/#about)
 
-## perform a repository wide search and replace for "repository-template-nosrc" and the "target-repo-name"
+# MoneErgy
 
-e.g. by using
+## naming
+Cross over of **mone**y and en**ergy**. 
 
-```
-cp -R repository-template-nosrc/ new-name && cd new-name && git config --local --unset remote.origin.url && git config --local --add remote.origin.url git@github.com:baloise/new-name.git && git reset --hard $(git commit-tree FETCH_HEAD^{tree} -m "Initial contribution") &&  git grep -l 'repository-template-nosrc' | xargs sed -i '' -e 's/repository-template-nosrc/new-name/g' && git add -A && git commit -m "Rename from template to new-name" && cd ..
-```
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io#https://github.com/baloise/repository-template-nosrc)
+## Idee: wirtschaftliche Verwendung von dezentral erzeugter, überschüssiger Energie bspw. aus PV-Anlagen
+ - Strom-Puffer via bpsw. 
+   - Lithium-Ionen Akku + Eigenverbrauch ~30 Cent pro kWh
+     - Degeneration 
+     - Brandgefahr
+     - Eigenverbrauch bspw. Waschmaschine muss getimed werden
+   - Netz und Einspeisung nach EEG ~ 6,20 Cent pro kWh -> geht gegen 0
+ - Wärme-Puffer bspw. via Heizstab für den Warmwasserspeicher 
 
-## the [docs](docs/index.md)
+## Ziel: entweder-hier > Eigenverbrauch > oder-hier-wollen-wir-hin > Einspeisung
+
+ - Token-Puffer bspw. als ETH; aktuell ~ [110 Cent pro kWh](https://whattomine.com) - (6 x 3070er Nvidia GPU ~800 Watt/h + 200 Watt für System >> 360 MHs) 
+  - ggfs. direkt Monetarisierung in Fiat-Währungen: EUR, USD, ...
+  - Abwärme als Luft-Heizung nutzen
+
+## cross-selling
+ - tbd
