@@ -1,9 +1,9 @@
 # [Kickbox](https://home.getkickbox.com/#about)
 
-# MoneErgy
+# MonErgy
 
 ## naming
-Cross over of **mone**y and en**ergy**. 
+Cross over of **mon**ey and en**ergy**. 
 
 ## Idee: wirtschaftliche Verwendung von dezentral erzeugter, überschüssiger Energie bspw. aus PV-Anlagen
  - Strom-Puffer via bpsw. 
