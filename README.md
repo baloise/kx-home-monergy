@@ -44,10 +44,10 @@ What are their needs and pains?
 Customer Journey Map
 ```
  - producer of decentralized (renewable) energy e.g. via photovoltaics, wind, etc...
-   - segmentation by amount of energy being produced
+    - segmentation by amount of energy being produced
  - needs & pains
-  - increase compensation for unused energy as it is < 10 Rp/kWh and lowering (in Switzerland, Germany, ...)
-  - use energy locally - heat with watercooled solutions
+    - increase compensation for unused energy as it is < 10 Rp/kWh and lowering (in Switzerland, Germany, ...)
+    - use energy locally - heat with watercooled solutions
 
 ## business model / profitability 
 
@@ -57,13 +57,13 @@ Revenue streams (for which services / product is the customer willing to pay?)
 Cost structure
 ```
  - money making
-   - selling miner
-   - renting miner
-   - paying for kwH more than compensation
+    - selling miner
+    - renting miner
+    - paying for kwH more than compensation
  - product / services
-   - more compensation
-   - using the heat locally
-   - decision what to mine / how to store
+    - more compensation
+    - using the heat locally
+    - decision what to mine / how to store
 
 ## value proposition
 
