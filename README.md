@@ -27,12 +27,51 @@ Cross over of **mon**ey and en**ergy**.
 
 ## market demand
 
+```
+Proven target market
+Market potential and size
+Competitors
+```
+
 ## customer & target group
+
+```
+Who are the customers? Who can they be segmented?
+What are their needs and pains?
+Customer Journey Map
+```
 
 ## business model / profitability 
 
+```
+How do you make money? 
+Revenue streams (for which services / product is the customer willing to pay?)
+Cost structure
+```
+
 ## value proposition
+
+```
+What value or benefit do you serve the customer?
+Which customer problems do you solve?
+Which customer needs to you satisfy? 
+```
 
 ## strategic fit
 
+```
+The strategic fit is clearly explained
+Aligns with Baloise focus areas (Core Business, Home, Mobility)
+Aligns with Baloise strategic goals (new customers, cash flow, most attractive employer)
+```
+
 ## bluebox roadmap & milestones
+
+```
+Official request to be formulated (1 slide)
+Team – Which skills do you need and who can support you?
+Money – How much money do you need? What do you do with it?
+Time – Has your line manger confirmed your time investment for the Kickbox project?
+Clearly defined roadmap and next steps
+Sponsor agreement signed (budget/support)
+```
