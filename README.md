@@ -33,6 +33,9 @@ Market potential and size
 Competitors
 ```
 
+ - competitors: lithium ion battery, heating rod, ...
+ - proven target market: see competitors e.g. ion batteries
+
 ## customer & target group
 
 ```
@@ -40,6 +43,11 @@ Who are the customers? Who can they be segmented?
 What are their needs and pains?
 Customer Journey Map
 ```
+ - producer of decentralized (renewable) energy e.g. via photovoltaics, wind, etc...
+   - segmentation by amount of energy being produced
+ - needs & pains
+  - increase compensation for unused energy as it is < 10 Rp/kWh and lowering (in Switzerland, Germany, ...)
+  - use energy locally - heat with watercooled solutions
 
 ## business model / profitability 
 
@@ -48,14 +56,25 @@ How do you make money?
 Revenue streams (for which services / product is the customer willing to pay?)
 Cost structure
 ```
+ - money making
+   - selling miner
+   - renting miner
+   - paying for kwH more than compensation
+ - product / services
+   - more compensation
+   - using the heat locally
+   - decision what to mine / how to store
 
 ## value proposition
 
 ```
 What value or benefit do you serve the customer?
 Which customer problems do you solve?
-Which customer needs to you satisfy? 
+Which customer needs do you satisfy? 
 ```
+ - value: crypto or fiat compensation 
+ - increasing ROI of investments in dezentralized energy solutions
+ - money, cost-averaging into crypto assets
 
 ## strategic fit
 
@@ -64,6 +83,9 @@ The strategic fit is clearly explained
 Aligns with Baloise focus areas (Core Business, Home, Mobility)
 Aligns with Baloise strategic goals (new customers, cash flow, most attractive employer)
 ```
+ - we do finance, we (will) do decentralized finance
+ - focus area: home
+ - goals: new customers (e.g. home owner) + cash flow
 
 ## bluebox roadmap & milestones
 
