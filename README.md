@@ -22,3 +22,17 @@ Cross over of **mon**ey and en**ergy**.
 
 ## cross-selling
  - tbd
+
+# business model canvas
+
+## market demand
+
+## customer & target group
+
+## business model / profitability 
+
+## value proposition
+
+## strategic fit
+
+## bluebox roadmap & milestones
