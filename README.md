@@ -2,6 +2,8 @@
 
 # MonErgy
 
+[![](https://images.unsplash.com/photo-1545209463-e2825498edbf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1567&q=80)](https://unsplash.com/photos/_h0xG4s6NFg)
+
 ## naming
 Cross over of **mon**ey and en**ergy**. 
 
@@ -97,3 +99,9 @@ Time – Has your line manger confirmed your time investment for the Kickbox pro
 Clearly defined roadmap and next steps
 Sponsor agreement signed (budget/support)
 ```
+
+# marketing
+
+## images
+
+[![](https://images.unsplash.com/photo-1518544648563-3d99717dbe95?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1649&q=80)](https://unsplash.com/photos/fZoLhGQIejU)
