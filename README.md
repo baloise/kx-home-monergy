@@ -106,6 +106,7 @@ Sponsor agreement signed (budget/support)
 
 ### https://www.kryptex.org/de/mining-profitability
 ### https://whattomine.com
+### https://www.cryptocompare.com/mining/calculator/eth?HashingPower=420&HashingUnit=MH%2Fs&PowerConsumption=1000&CostPerkWh=0.1&MiningPoolFee=1
 ### https://energeiaplus.com/2021/06/07/studierende-der-uni-bern-visualisieren-energiedaten/
 
 ## images
