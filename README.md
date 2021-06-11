@@ -106,6 +106,7 @@ Sponsor agreement signed (budget/support)
 
 ### https://www.kryptex.org/de/mining-profitability
 ### https://whattomine.com
+### https://energeiaplus.com/2021/06/07/studierende-der-uni-bern-visualisieren-energiedaten/
 
 ## images
 
